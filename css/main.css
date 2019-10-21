@@ -1,7 +1,41 @@
     .nav-menu {
       text-align: right;
     }
-     .nav-spacing {
-        margin: 0 0 0 10px;
-        text-decoration: none
+
+    .nav-spacing {
+      margin: 0 0 0 10px;
+      text-decoration: none
      } 
+
+    .image-link {
+      text-decoration: none
+     }
+
+     .quote-index {
+       padding: 2px 20px;
+       background: #ccc;
+     }
+
+     .quote-moby {
+      text-align: center;
+      margin: 0 0 80px;
+     }
+
+     .span-moby {
+      width: 500px;
+      margin: 20px auto;
+      padding: 30px;
+      background-color: #fafafa;"
+     }
+
+     .book-moby {
+      float: left;
+      margin: 0px 30px 20px 10px;
+     }
+
+     .callout-moby {
+      font-style: normal; 
+      font-size: 24px;
+      font-weight: bold;
+      color: #ff0000;
+     }
